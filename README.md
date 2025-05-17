@@ -1,1 +1,1 @@
-# Clear-Field
+ClearField is a government-facing project my team and I built to support data-driven decision-making in the livestock sector. We focused on improving livestock policy delivery by working with government departments to map and analyze data on animal health, market access, and pastoralist resilience. Our work included building dashboards, supporting vaccination campaigns, and advising on tech adoption like livestock tagging and mobile vet tools
